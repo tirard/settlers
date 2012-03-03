@@ -4,6 +4,8 @@ A website written in noir.
 
 ## Usage
 
+Install Clojure and Leiningen
+
 ```bash
 lein deps
 lein run
